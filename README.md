@@ -1,1 +1,11 @@
-# Simple-web
+<html>
+  <head>
+    <title>My web page </title>
+  </head>
+  <body>
+    <center>
+    <h1><i><b>My first web page</b></i></h1>
+    </center>
+    <p> I'm proudly to say this is my first web page</p>
+  </body>
+</html>
